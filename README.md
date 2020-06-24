@@ -1,5 +1,6 @@
 # QT-number-guessing-game
 
+Number guessing game with qt widget application.
 
 
 # FALSE GUESS
