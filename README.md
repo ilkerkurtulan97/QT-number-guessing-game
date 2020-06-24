@@ -4,8 +4,8 @@
 
 # FALSE GUESS
 
-![Screenshot](a.jpg)
+![Screenshot](a.png)
 
 # CORRECT GUESS 
 
-![Screenshot](b.jpg)
+![Screenshot](b.png)
